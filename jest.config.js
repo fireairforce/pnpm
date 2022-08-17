@@ -1,4 +1,5 @@
 const path = require("path");
+console.log('path: ', path);
 
 const pathAsArr = process.env.PNPM_SCRIPT_SRC_DIR.split(path.sep);
 const packageName = pathAsArr[pathAsArr.length - 1];
