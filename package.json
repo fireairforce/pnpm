@@ -57,7 +57,7 @@
     "syncpack": "^8.5.14",
     "ts-jest": "29.0.3",
     "ts-node": "^10.9.1",
-    "typescript": "^5.0.0",
+    "typescript": "5.0.2",
     "verdaccio": "5.20.1"
   },
   "engines": {
